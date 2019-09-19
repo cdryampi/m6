@@ -1,11 +1,17 @@
 {
-  "name": "m6",
-  "version": "1.0.0",
-  "description": "Cosas del afredo",
-  "main": "index.js",
-  "scripts": {
-    "test": "nodemon index.js"
-  },
-  "author": "yampi",
-  "license": "ISC"
+    "name": "m6",
+    "version": "1.0.0",
+    "description": "Cosas del afredo",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "author": "yampi",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodejs": "0.0.0",
+        "nodemon": "^1.19.2",
+        "socket.io": "^2.2.0"
+    }
 }
