@@ -6,7 +6,8 @@ $(document).ready(function() {
         ["Office 365", 10, 69.95, false],
         ["Windows Server 2012 R2", 2, 1582.6, true],
         ["Lenovo Legion Y520", 3, 799, false],
-        ["Gafas xavier", 4, 100, true]
+        ["Gafas xavier", 4, 100, true],
+        ["camisateas Jordi", 6, 300, true]
     ]
 
 

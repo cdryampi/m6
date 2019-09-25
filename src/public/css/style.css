@@ -30,4 +30,13 @@ img.card-img-top {
   display: -ms-grid;
   display: grid;
 }
+
+tbody#insert {
+  color: #fff;
+}
+
+.table thead tr th {
+  color: yellow;
+  text-transform: uppercase;
+}
 /*# sourceMappingURL=style.css.map */
